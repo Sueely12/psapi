@@ -1,0 +1,12 @@
+{
+    "pawstore": {
+      "latest_version": "1.2.0",
+      "update_url": "https://example.com/pawstore_update.zip"
+    },
+    "games": {
+      "BRMP": {
+        "latest_version": "1.1.0",
+        "update_url": "https://example.com/brmp_update.zip"
+      }
+    }
+  }
