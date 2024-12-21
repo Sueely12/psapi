@@ -1,7 +1,7 @@
 {
     "pawstore": {
-      "latest_version": "1.2.0",
-      "update_url": "https://example.com/pawstore_update.zip"
+      "latest_version": "1.1.0",
+      "update_url": "https://www.dropbox.com/scl/fi/s822w6qsviy531bmtbpx9/pawstore.zip?rlkey=wub8zfppoikt74mftuhoe7pp0&st=htdu9ve3&dl=1"
     },
     "games": {
       "BRMP": {
